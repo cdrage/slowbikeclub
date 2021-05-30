@@ -1,0 +1,6 @@
+_site/
+bin
+
+.jekyll-cache/
+
+private/

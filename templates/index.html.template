@@ -1,0 +1,153 @@
+<div class="first home-3"><!-- Hero Section-->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <div class="hero-content wow fadeIn">
+          <div class="hero-content-inner">
+            <h4>Motorcycle vinyl decals</h4>
+            <h1>
+              Vinyl decals for track bikes and road motorcycles
+            </h1>
+            <p>
+            Up to 12" x 10ft decals printed on weatherproof vinyl that lasts over 10 years.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-7">
+        <div class="hero-img">
+          <img class="img-fluid" style="margin-bottom:0px !important;" src="/assets/images/customers/paul.jpg" alt="CementHeadRacing's bike">
+          <div class="image-text">
+            <p>
+            <a href="https://instagram.com/cementheadracing" target="_blank">@cementheadracing<a/> rocking his huge Aprilia decal
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="customers" class="what home-3"><!-- Hero Section-->
+  <div class="container">
+    <div class="flex-intro align-center wow fadeIn">
+      <h2>Many happy customers</h2>
+      <p>Check out all the bikes below!</p>
+    </div>
+
+    <!-- row -->
+    <div class="row">
+      <div class="col-md-4">
+        <div class="hero-img">
+          <img class="img-fluid" src="/assets/images/customers/ninja400longcorner.jpg" alt="ninja 400 long corner">
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="hero-img">
+          <img class="img-fluid" src="/assets/images/customers/paul.jpg" alt="Picture of lap timer on r6">
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="hero-img">
+          <img class="img-fluid" src="/assets/images/customers/paul.jpg" alt="Picture of lap timer on r6">
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-4">
+        <div class="hero-img">
+          <img class="img-fluid" src="/assets/images/customers/ninja400longcorner.jpg" alt="ninja 400 long corner">
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="hero-img">
+          <img class="img-fluid" src="/assets/images/customers/paul.jpg" alt="Picture of lap timer on r6">
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="hero-img">
+          <img class="img-fluid" src="/assets/images/customers/paul.jpg" alt="Picture of lap timer on r6">
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-4">
+        <div class="hero-img">
+          <img class="img-fluid" src="/assets/images/customers/ninja400longcorner.jpg" alt="ninja 400 long corner">
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="hero-img">
+          <img class="img-fluid" src="/assets/images/customers/paul.jpg" alt="Picture of lap timer on r6">
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="hero-img">
+          <img class="img-fluid" src="/assets/images/customers/paul.jpg" alt="Picture of lap timer on r6">
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div><!-- Hero End -->
+
+<div id="services" class="what home-3 what-alt">
+  <div class="container">
+    <div class="flex-intro align-center wow fadeIn">
+      <h2>Services & Pricing</h2>
+      <p>See below for all our services and pricing</p>
+    </div>
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="team-image text-center"><img src="assets/images/laptimer/holder.jpg" class="rounded-circle z-depth-1 img-fluid" alt="Shannonville Track Sculptures"></div>
+        <div class="team-text">
+          <h3>Vinyl Decals</h3>
+          <p>
+          Up to 12" x 10ft in size.
+          <br>
+          Pricing at $15/ft for standard vinyl. 
+          <br>
+          $20/ft for reflective vinyl.
+          </p>
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="team-image text-center"><img src="assets/images/laptimer/customers/ramiro.jpg" class="rounded-circle z-depth-1 img-fluid" alt="Guy riding motorcycle"></div>
+        <div class="team-text">
+          <h3>Race Numbers</h3>
+          <p>
+          SOAR, SuperSeries and CSBK compliant numbers.
+          <br>
+          7" tall (SuperSeries) / 8" tall (SOAR) with white borders.
+          <br>
+          $10 / number.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><!-- Call to Action Section -->
+
+<div id="colours" class="what home-3 what-alt">
+  <div class="container">
+    <div class="flex-intro align-center wow fadeIn">
+      <h2>Services & Pricing</h2>
+      <p>See below for all our services and pricing</p>
+    </div>
+    <div class="row">
+      <div class="col-sm-12" style="text-align:center;">
+          <img class="img-fluid" src="/assets/images/colors.png" alt="oracal651colours">
+      </div>
+    </div>
+  </div>
+</div><!-- Call to Action Section -->
+
