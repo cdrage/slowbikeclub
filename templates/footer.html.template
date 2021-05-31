@@ -6,7 +6,7 @@
         <h2>Any questions? Contact us!</h2>
         <br>
         <h4><a href="tel:1-226-476-1199">226-476-1199</a></h4>
-        <h4><a href="mailto:ksrparts3d@gmail.com">ksrparts3d @ gmail.com</a></h4>
+        <h4><a href="mailto:charlie@charliedrage.com">charlie @ charliedrage.com</a></h4>
         <h4>Proudly made in Kitchener, Ontario, Canada</h4>
       </div> 
     </div>
@@ -20,7 +20,7 @@
     <div class="row text-center">
       <div class="col-lg-2 col-md-3 col-sm-12">
         <div class="footer-logo">
-          <h2>KSR Parts Ltd.</h2>
+          <h2>SlowBikeClub Vinyl Decals Ltd.</h2>
         </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
@@ -31,8 +31,8 @@
       <div class="col-lg-4 col-md-3 col-sm-12">
         <div class="footer-links">
           <ul>
-            <li><a href="https://www.facebook.com/ksrparts3d/" target="_blank"> <img class="img-fluid" src="assets/icons/fb.png" alt="Facebook"> </a> </li>
-            <li><a href="https://www.instagram.com/ksrparts/" target="_blank"> <img class="img-fluid" src="assets/icons/in.png" alt="Instagram"> </a> </li>
+            <li><a href="https://www.facebook.com/slowbikeclubvinyldecals/" target="_blank"> <img class="img-fluid" src="assets/icons/fb.png" alt="Facebook"> </a> </li>
+            <!--<li><a href="https://www.instagram.com/ksrparts/" target="_blank"> <img class="img-fluid" src="assets/icons/in.png" alt="Instagram"> </a> </li>-->
           </ul>
         </div>
       </div>

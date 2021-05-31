@@ -52,7 +52,7 @@
 
       <div class="col-md-4">
         <div class="hero-img">
-          <img class="img-fluid" src="/assets/images/customers/paul.jpg" alt="Picture of lap timer on r6">
+          <img class="img-fluid" src="/assets/images/customers/ducati.jpg" alt="Picture of lap timer on r6">
         </div>
       </div>
     </div>
@@ -60,39 +60,13 @@
     <div class="row">
       <div class="col-md-4">
         <div class="hero-img">
-          <img class="img-fluid" src="/assets/images/customers/ninja400longcorner.jpg" alt="ninja 400 long corner">
+          <img class="img-fluid" src="/assets/images/customers/302.jpg" alt="ninja 400 long corner">
         </div>
       </div>
 
       <div class="col-md-4">
         <div class="hero-img">
-          <img class="img-fluid" src="/assets/images/customers/paul.jpg" alt="Picture of lap timer on r6">
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="hero-img">
-          <img class="img-fluid" src="/assets/images/customers/paul.jpg" alt="Picture of lap timer on r6">
-        </div>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col-md-4">
-        <div class="hero-img">
-          <img class="img-fluid" src="/assets/images/customers/ninja400longcorner.jpg" alt="ninja 400 long corner">
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="hero-img">
-          <img class="img-fluid" src="/assets/images/customers/paul.jpg" alt="Picture of lap timer on r6">
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="hero-img">
-          <img class="img-fluid" src="/assets/images/customers/paul.jpg" alt="Picture of lap timer on r6">
+          <img class="img-fluid" src="/assets/images/customers/302_1.jpg" alt="Picture of lap timer on r6">
         </div>
       </div>
     </div>
@@ -108,7 +82,7 @@
     </div>
     <div class="row">
       <div class="col-sm-6">
-        <div class="team-image text-center"><img src="assets/images/laptimer/holder.jpg" class="rounded-circle z-depth-1 img-fluid" alt="Shannonville Track Sculptures"></div>
+        <div class="team-image text-center"><img src="assets/images/customers/small_paul.jpg" class="rounded-circle z-depth-1 img-fluid" alt="Paul bike"></div>
         <div class="team-text">
           <h3>Vinyl Decals</h3>
           <p>
@@ -121,7 +95,7 @@
         </div>
       </div>
       <div class="col-sm-6">
-        <div class="team-image text-center"><img src="assets/images/laptimer/customers/ramiro.jpg" class="rounded-circle z-depth-1 img-fluid" alt="Guy riding motorcycle"></div>
+        <div class="team-image text-center"><img src="assets/images/customers/small_302.jpg" class="rounded-circle z-depth-1 img-fluid" alt="Guy riding motorcycle"></div>
         <div class="team-text">
           <h3>Race Numbers</h3>
           <p>
@@ -140,11 +114,12 @@
 <div id="colours" class="what home-3 what-alt">
   <div class="container">
     <div class="flex-intro align-center wow fadeIn">
-      <h2>Services & Pricing</h2>
+      <h2>Vinyl Colours</h2>
       <p>See below for all our services and pricing</p>
     </div>
     <div class="row">
       <div class="col-sm-12" style="text-align:center;">
+          <a class="btn-action" href="/assets/images/colors.png">Click to view the below image</a>
           <img class="img-fluid" src="/assets/images/colors.png" alt="oracal651colours">
       </div>
     </div>

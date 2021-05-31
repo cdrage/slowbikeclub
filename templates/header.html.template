@@ -37,12 +37,13 @@
     <meta name="theme-color" content="#ffffff">
 
     <!-- Facebook OpenGraph -->
-    <meta property="og:title" content="KSR Parts 3D Printed Carbon Fiber | Motorcycle Parts & Art">
-    <meta property="og:site_name" content="KSR Parts">
-    <meta property="og:url" content="https://ksr.parts">
-    <meta property="og:description" content="We 3D print motorcycle parts and art. Printed using premium filament infused with Carbon Fiber.">
+    <meta property="og:title" content="%TITLE%">
+    <meta property="og:site_name" content="SlowBikeClub Vinyl Decals">
+    <meta property="og:url" content="https://slowbikeclub.ca">
+    <meta property="og:description" content="SlowBikeClub Vinyl Decals prints Oracal 651 permanent vinyl for vehicle applications such as road bikes, track bikes and cars.">
+
     <meta property="og:type" content="article">
-    <meta property="og:image" content="https://ksr.parts/assets/images/tracks.jpg">
+    <meta property="og:image" content="https://slowbikeclub.ca/assets/images/customers/302.jpg">
 
     <!-- ####### -->
     <!-- # END # -->
@@ -70,9 +71,9 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto navbar-right">
-              <li class="nav-item"><a class="nav-link" href="/#pricing">Services</a></li>
-              <li class="nav-item"><a class="nav-link" href="/#pricing">Colours</a></li>
-              <li class="nav-item"><a class="nav-link" href="/#pricing">Pricing</a></li>
+              <li class="nav-item"><a class="nav-link" href="/#customers">Customers</a></li>
+              <li class="nav-item"><a class="nav-link" href="/#colours">Colours</a></li>
+              <li class="nav-item"><a class="nav-link" href="/#services">Services & Pricing</a></li>
             </ul>
           </div>
         </div>
